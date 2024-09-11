@@ -1,0 +1,2 @@
+# trainalgoritma
+latihan algoritma
